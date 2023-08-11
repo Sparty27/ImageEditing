@@ -1,0 +1,12 @@
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\TestTaskBL.deps.json
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\TestTaskBL.dll
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\TestTaskBL.pdb
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.csproj.AssemblyReference.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.AssemblyInfoInputs.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.AssemblyInfo.cs
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.csproj.CoreCompileInputs.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.dll
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\refint\TestTaskBL.dll
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\TestTaskBL.pdb
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ref\TestTaskBL.dll

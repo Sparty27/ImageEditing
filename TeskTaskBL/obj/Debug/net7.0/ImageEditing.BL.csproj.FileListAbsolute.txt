@@ -1,0 +1,12 @@
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\ImageEditing.BL.deps.json
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\ImageEditing.BL.dll
+C:\C#\Work\TestTask\TeskTaskBL\bin\Debug\net7.0\ImageEditing.BL.pdb
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.csproj.AssemblyReference.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.AssemblyInfoInputs.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.AssemblyInfo.cs
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.csproj.CoreCompileInputs.cache
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.dll
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\refint\ImageEditing.BL.dll
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ImageEditing.BL.pdb
+C:\C#\Work\TestTask\TeskTaskBL\obj\Debug\net7.0\ref\ImageEditing.BL.dll
